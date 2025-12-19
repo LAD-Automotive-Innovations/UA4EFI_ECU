@@ -801,7 +801,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "kicad6-libraries:R0603"
 			(at 200.66 91.44 0)
 			(effects
 				(font
@@ -887,7 +887,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "kicad6-libraries:R0603"
 			(at 200.66 118.11 0)
 			(effects
 				(font
@@ -1559,7 +1559,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "kicad6-libraries:R0603"
 			(at 175.26 123.19 0)
 			(effects
 				(font
@@ -1645,7 +1645,7 @@
 				)
 			)
 		)
-		(property "Footprint" "hellen-one-common:R0603"
+		(property "Footprint" "kicad6-libraries:R0603"
 			(at 175.26 96.52 0)
 			(effects
 				(font

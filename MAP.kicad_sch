@@ -864,7 +864,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "hellen-one-common:C0603"
+		(property "Footprint" "kicad6-libraries:C0603"
 			(at 161.29 95.25 0)
 			(effects
 				(font
