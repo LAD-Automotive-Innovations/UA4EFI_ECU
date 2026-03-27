@@ -1,8 +1,0 @@
-*-backups
-/.idea
-*.bak
-*.lck
-fp-info-cache
-
-# project local?
-*.kicad_prl
